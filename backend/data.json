@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Getting Started with MERN Stack",
+    "content": "This article explains how to set up a MERN stack project with MongoDB, Express, React, and Node.js.",
+    "category": "Web Development",
+    "author": "Ajay Kumar",
+    "image": "https://example.com/uploads/mern-stack-guide.png",
+    "createdAt": "2025-09-06T10:30:00.000Z",
+    "updatedAt": "2025-09-06T10:30:00.000Z"
+  },
+  {
+    "title": "Understanding React Hooks",
+    "content": "A complete guide to React Hooks including useState, useEffect, and custom hooks with examples.",
+    "category": "Frontend",
+    "author": "Priya Sharma",
+    "image": "https://example.com/uploads/react-hooks.png",
+    "createdAt": "2025-09-05T09:15:00.000Z",
+    "updatedAt": "2025-09-05T09:15:00.000Z"
+  },
+  {
+    "title": "Mastering Node.js API Development",
+    "content": "Learn how to build RESTful APIs with Node.js and Express, including middleware and error handling.",
+    "category": "Backend",
+    "author": "Rahul Verma",
+    "image": "https://example.com/uploads/nodejs-api.png",
+    "createdAt": "2025-09-04T14:45:00.000Z",
+    "updatedAt": "2025-09-04T14:45:00.000Z"
+  },
+  {
+    "title": "MongoDB Best Practices",
+    "content": "Tips and tricks for designing efficient MongoDB schemas, indexing, and query optimization.",
+    "category": "Database",
+    "author": "Sneha Patel",
+    "image": "https://example.com/uploads/mongodb-best-practices.png",
+    "createdAt": "2025-09-03T11:20:00.000Z",
+    "updatedAt": "2025-09-03T11:20:00.000Z"
+  },
+  {
+    "title": "Deploying MERN Apps on Render",
+    "content": "Step-by-step tutorial on deploying a MERN application using Render with CI/CD integration.",
+    "category": "DevOps",
+    "author": "Vikram Singh",
+    "image": "https://example.com/uploads/deploy-mern-render.png",
+    "createdAt": "2025-09-02T16:00:00.000Z",
+    "updatedAt": "2025-09-02T16:00:00.000Z"
+  }
+]
